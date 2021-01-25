@@ -17,7 +17,7 @@ Please let us know how long the challenge took you. We're not looking for how fa
 
 This company is ingesting data into a 'data lake' running AWS. Below find a picture of the AWS components used for this company's architecture. 
 
-![AWS-COMPONENTS](/media/awscp.png)
+![AWS-COMPONENTS](image.jpg)
 
 ## Section A
 ### Design an Architecture Diagram - We want to see a picture.
